@@ -21,6 +21,7 @@ border-radius: 8px;
   width:250px;
   border-radius: 8px 0px 0px 8px;
   font-size: large;
+   background-color:transparent;
 }
 .button{
   height: 46px; 
